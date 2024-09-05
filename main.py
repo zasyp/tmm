@@ -28,4 +28,3 @@ def y_b(phi_1):
 def x_s2(phi_1):
     pass
 
-
